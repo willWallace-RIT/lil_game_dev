@@ -1,3 +1,6 @@
+//LilAP.ino
+//pop this in arduino ide as an ino
+
 #include <WiFi.h>
 #include <AsyncTCP.h>
 #include <ESPAsyncWebServer.h>
