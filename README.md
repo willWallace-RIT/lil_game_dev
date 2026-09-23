@@ -1,5 +1,7 @@
 # lil_game_dev
 A tiny local AP file host for web based game dev tools
+untested so far but potentially should file host of esp32 + sdcard
+
 current list for plan:
 
 [ ] https://keithclark.github.io/ZzFXM/
