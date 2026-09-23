@@ -1,6 +1,10 @@
 # lil_game_dev
 A tiny local AP file host for web based game dev tools
-untested so far but potentially should file host of esp32 + sdcard
+
+
+untested so far but potentially should file host off of esp32 + sdcard
+
+with support for anything that can run web + webasm
 
 current list for plan:
 
